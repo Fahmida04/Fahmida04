@@ -1,4 +1,4 @@
-# Hi, I'm Fahmida Firoz Ananta 👋
+# Hi, I'm Fahmida Firoz 👋
 
 Statistics postgraduate and QA lead from Chittagong, Bangladesh. I like turning data into insight and making software that feels calm to use.
 
