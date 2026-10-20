@@ -5,7 +5,7 @@ Statistics postgraduate and QA lead from Chittagong, Bangladesh. I like turning 
 ## 🔭 Current focus
 - M.Sc. in Statistics at the University of Chittagong (B.Sc. Hons. in Statistics)
 - Vice President and co-founder of **Raven's Claw**, a game testing and QA team in Bangladesh
-- Preparing for a master's in Data Science abroad
+- Preparing for a master's in Data Science
 
 ## 🛠️ Skills
 - **Statistics & data:** R · Python · SPSS · STATA · Excel
